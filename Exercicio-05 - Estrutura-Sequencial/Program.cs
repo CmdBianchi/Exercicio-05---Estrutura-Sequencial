@@ -8,7 +8,8 @@ namespace Exercicio_05___Estrutura_Sequencial
         /////////////////////////////////////////////////////////////////////////////////////////////
         static void Main(string[] args){
             Msg();
-            Leitura();
+            Reading();
+            Equation();
         }
         /// -------> FUNCTIONS
         /////////////////////////////////////////////////////////////////////////////////////////////
@@ -17,13 +18,15 @@ namespace Exercicio_05___Estrutura_Sequencial
             Console.WriteLine(" ");
         }
         /*------------------------------------------------------------------------------------------*/
-        static void Leitura() {
+        static void Reading() {
             Console.WriteLine("Escreva o código do produto 1: ");
             Console.WriteLine("Escreva o código do produto 2: ");
             Console.WriteLine(" ");
         }
-         
+        /*------------------------------------------------------------------------------------------*/
+        static void Equation() { 
 
+        }
 
 
 
