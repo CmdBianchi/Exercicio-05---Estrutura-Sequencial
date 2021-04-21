@@ -22,7 +22,7 @@ namespace Exercicio_05___Estrutura_Sequencial
             Console.WriteLine("Escreva o código do produto 2: ");
             Console.WriteLine(" ");
         }
-
+         
 
 
 
